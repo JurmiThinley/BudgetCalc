@@ -1,6 +1,6 @@
-#Budget Calculator
+##Description
 
-> A straightforward budget calculator web application to help you manage your finances easily.
+A straightforward budget calculator web application to help you manage your finances easily.
 
 ---
 
