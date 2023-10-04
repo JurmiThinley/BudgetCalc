@@ -6,5 +6,5 @@ const App = () => {
   return(
     <><p>Hello World!</p><p> starting codes</p></>
   )
-}
+};
 export default App;
